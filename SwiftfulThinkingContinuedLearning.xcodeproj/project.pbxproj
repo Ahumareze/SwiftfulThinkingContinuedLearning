@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F8BF76B22AD84A7B00FDE80E /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */; };
+		F8BF76B52AD84BB100FDE80E /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */; };
 		F8D45D952AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45D942AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift */; };
 		F8D45D972AC98FA100A2EB35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45D962AC98FA100A2EB35 /* ContentView.swift */; };
 		F8D45D992AC98FA200A2EB35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8D45D982AC98FA200A2EB35 /* Assets.xcassets */; };
@@ -26,9 +28,12 @@
 		F8D45DBC2ACA292400A2EB35 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45DBB2ACA292400A2EB35 /* LocalNotificationBootcamp.swift */; };
 		F8D45DBE2ACAC68D00A2EB35 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45DBD2ACAC68D00A2EB35 /* HashableBootcamp.swift */; };
 		F8D45DC02ACAD09F00A2EB35 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */; };
+		F8EE246F2AD88BFA00215900 /* CoreDataRelationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
+		F8BF76B42AD84BB100FDE80E /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		F8D45D912AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8D45D942AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		F8D45D962AC98FA100A2EB35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -49,6 +54,7 @@
 		F8D45DBB2ACA292400A2EB35 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		F8D45DBD2ACAC68D00A2EB35 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
+		F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,9 @@
 				F8D45DBB2ACA292400A2EB35 /* LocalNotificationBootcamp.swift */,
 				F8D45DBD2ACAC68D00A2EB35 /* HashableBootcamp.swift */,
 				F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */,
+				F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */,
+				F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */,
+				F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */,
 				F8D45DB42ACA22EF00A2EB35 /* Sounds */,
 				F8D45D982AC98FA200A2EB35 /* Assets.xcassets */,
 				F8D45D9A2AC98FA200A2EB35 /* Preview Content */,
@@ -194,13 +203,16 @@
 			files = (
 				F8D45DB12ACA1A7000A2EB35 /* MaskBootcamp.swift in Sources */,
 				F8D45DBA2ACA256800A2EB35 /* HapticsBootcamp.swift in Sources */,
+				F8BF76B52AD84BB100FDE80E /* FruitsContainer.xcdatamodeld in Sources */,
 				F8D45DC02ACAD09F00A2EB35 /* ArraysBootcamp.swift in Sources */,
 				F8D45D972AC98FA100A2EB35 /* ContentView.swift in Sources */,
+				F8EE246F2AD88BFA00215900 /* CoreDataRelationsBootcamp.swift in Sources */,
 				F8D45D952AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
 				F8D45DA52AC9ACFF00A2EB35 /* MagnificationGestureBootcamp.swift in Sources */,
 				F8D45DAD2AC9CE0300A2EB35 /* GeometryReaderBootcamp.swift in Sources */,
 				F8D45DBE2ACAC68D00A2EB35 /* HashableBootcamp.swift in Sources */,
 				F8D45DA92AC9C05F00A2EB35 /* DragGestureBootcamp2.swift in Sources */,
+				F8BF76B22AD84A7B00FDE80E /* CoreDataBootcamp.swift in Sources */,
 				F8D45DB32ACA1F6400A2EB35 /* SoundsBootcamp.swift in Sources */,
 				F8D45DA32AC9909500A2EB35 /* LongPressGestureBootcamp.swift in Sources */,
 				F8D45DA72AC9B65200A2EB35 /* DragGestureBootcamp.swift in Sources */,
@@ -407,6 +419,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F8BF76B42AD84BB100FDE80E /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = F8BF76B42AD84BB100FDE80E /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = F8D45D892AC98FA100A2EB35 /* Project object */;
 }
