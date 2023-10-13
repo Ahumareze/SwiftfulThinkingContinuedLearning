@@ -29,6 +29,7 @@
 		F8D45DBE2ACAC68D00A2EB35 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45DBD2ACAC68D00A2EB35 /* HashableBootcamp.swift */; };
 		F8D45DC02ACAD09F00A2EB35 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */; };
 		F8EE246F2AD88BFA00215900 /* CoreDataRelationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */; };
+		F8EE24722AD9945700215900 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8EE24702AD9945700215900 /* CoreDataContainer.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		F8D45DBD2ACAC68D00A2EB35 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 		F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationsBootcamp.swift; sourceTree = "<group>"; };
+		F8EE24712AD9945700215900 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				F8D45DBF2ACAD09F00A2EB35 /* ArraysBootcamp.swift */,
 				F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */,
 				F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */,
+				F8EE24702AD9945700215900 /* CoreDataContainer.xcdatamodeld */,
 				F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */,
 				F8D45DB42ACA22EF00A2EB35 /* Sounds */,
 				F8D45D982AC98FA200A2EB35 /* Assets.xcassets */,
@@ -214,6 +217,7 @@
 				F8D45DA92AC9C05F00A2EB35 /* DragGestureBootcamp2.swift in Sources */,
 				F8BF76B22AD84A7B00FDE80E /* CoreDataBootcamp.swift in Sources */,
 				F8D45DB32ACA1F6400A2EB35 /* SoundsBootcamp.swift in Sources */,
+				F8EE24722AD9945700215900 /* CoreDataContainer.xcdatamodeld in Sources */,
 				F8D45DA32AC9909500A2EB35 /* LongPressGestureBootcamp.swift in Sources */,
 				F8D45DA72AC9B65200A2EB35 /* DragGestureBootcamp.swift in Sources */,
 				F8D45DAB2AC9C82B00A2EB35 /* ScrollViewReaderBootcamp.swift in Sources */,
@@ -428,6 +432,16 @@
 			);
 			currentVersion = F8BF76B42AD84BB100FDE80E /* FruitsContainer.xcdatamodel */;
 			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		F8EE24702AD9945700215900 /* CoreDataContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F8EE24712AD9945700215900 /* CoreDataContainer.xcdatamodel */,
+			);
+			currentVersion = F8EE24712AD9945700215900 /* CoreDataContainer.xcdatamodel */;
+			path = CoreDataContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
