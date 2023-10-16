@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F89CC0C12ADD1C55000A7317 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CC0C02ADD1C55000A7317 /* WeakSelfBootcamp.swift */; };
+		F89CC0C32ADDE5CF000A7317 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CC0C22ADDE5CF000A7317 /* TypealiasBootcamp.swift */; };
 		F8BF76B22AD84A7B00FDE80E /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */; };
 		F8BF76B52AD84BB100FDE80E /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */; };
 		F8D45D952AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D45D942AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		F89CC0C02ADD1C55000A7317 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
+		F89CC0C22ADDE5CF000A7317 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		F8BF76B12AD84A7B00FDE80E /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
 		F8BF76B42AD84BB100FDE80E /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		F8D45D912AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,6 +114,7 @@
 				F8EE246E2AD88BF900215900 /* CoreDataRelationsBootcamp.swift */,
 				F8E94FB62ADC83F200C1EA3E /* BackgroundThreadBootcamp.swift */,
 				F89CC0C02ADD1C55000A7317 /* WeakSelfBootcamp.swift */,
+				F89CC0C22ADDE5CF000A7317 /* TypealiasBootcamp.swift */,
 				F8EE24702AD9945700215900 /* CoreDataContainer.xcdatamodeld */,
 				F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */,
 				F8D45DB42ACA22EF00A2EB35 /* Sounds */,
@@ -219,6 +222,7 @@
 				F8D45D952AC98FA100A2EB35 /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
 				F8D45DA52AC9ACFF00A2EB35 /* MagnificationGestureBootcamp.swift in Sources */,
 				F8D45DAD2AC9CE0300A2EB35 /* GeometryReaderBootcamp.swift in Sources */,
+				F89CC0C32ADDE5CF000A7317 /* TypealiasBootcamp.swift in Sources */,
 				F8D45DBE2ACAC68D00A2EB35 /* HashableBootcamp.swift in Sources */,
 				F8D45DA92AC9C05F00A2EB35 /* DragGestureBootcamp2.swift in Sources */,
 				F8BF76B22AD84A7B00FDE80E /* CoreDataBootcamp.swift in Sources */,
