@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F872C2B42AE0610E007B7FB9 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F872C2B32AE0610E007B7FB9 /* TimerBootcamp.swift */; };
 		F89CC0C12ADD1C55000A7317 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CC0C02ADD1C55000A7317 /* WeakSelfBootcamp.swift */; };
 		F89CC0C32ADDE5CF000A7317 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CC0C22ADDE5CF000A7317 /* TypealiasBootcamp.swift */; };
 		F89CC0C52ADDEDAF000A7317 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CC0C42ADDEDAF000A7317 /* EscapingBootcamp.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F872C2B32AE0610E007B7FB9 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		F89CC0C02ADD1C55000A7317 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		F89CC0C22ADDE5CF000A7317 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		F89CC0C42ADDEDAF000A7317 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				F89CC0C62ADE1B1F000A7317 /* CodableBootcamp.swift */,
 				F8B12E3D2ADEC30300B7ABDC /* DownloadWithEscapingBootcamp.swift */,
 				F8B12E3F2ADF3C5500B7ABDC /* DownloadWithCombineBootcamp.swift */,
+				F872C2B32AE0610E007B7FB9 /* TimerBootcamp.swift */,
 				F8EE24702AD9945700215900 /* CoreDataContainer.xcdatamodeld */,
 				F8BF76B32AD84BB100FDE80E /* FruitsContainer.xcdatamodeld */,
 				F8D45DB42ACA22EF00A2EB35 /* Sounds */,
@@ -251,6 +254,7 @@
 				F8D45DAF2AC9F27C00A2EB35 /* MultipleSheetsBootcamp.swift in Sources */,
 				F8D45DBC2ACA292400A2EB35 /* LocalNotificationBootcamp.swift in Sources */,
 				F89CC0C72ADE1B1F000A7317 /* CodableBootcamp.swift in Sources */,
+				F872C2B42AE0610E007B7FB9 /* TimerBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
